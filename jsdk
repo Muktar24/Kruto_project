@@ -1,0 +1,32 @@
+[33mcommit 04527320ffa208aa967347529fd5379edc2ac310[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32msign-in-branch[m[33m)[m
+Author: Muktar Sanusi <168346231+Muktar24@users.noreply.github.com>
+Date:   Sun Aug 3 03:25:41 2025 +0300
+
+    i added the signin section
+
+[33mcommit 870caa674ba6c3408460c8ffb64553173751028d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ed8ccfa 99edaa7
+Author: Muktar Sanusi <168346231+Muktar24@users.noreply.github.com>
+Date:   Sun Aug 3 03:04:35 2025 +0300
+
+    Merge pull request #1 from aminuiliyasu/db-setup-branch
+    
+    Initial database set up
+
+[33mcommit 99edaa7ff986674ab649ab1696467bc57b68f943[m
+Author: Aminu Iliyasu <iliyasuaminu50@gmail.com>
+Date:   Sun Aug 3 01:27:29 2025 +0200
+
+    Initial database set up
+
+[33mcommit ed8ccfa9c61f4f32a5217383324a126e6b7b24bd[m
+Author: Muktar Sanusi <168346231+Muktar24@users.noreply.github.com>
+Date:   Wed Jul 30 18:05:26 2025 +0300
+
+    created new files
+
+[33mcommit 592219cdace7a9c64de49e545cbc335a6cd4dba3[m[33m ([m[1;32mmain[m[33m)[m
+Author: Muktar Sanusi <168346231+Muktar24@users.noreply.github.com>
+Date:   Wed Jul 30 16:37:45 2025 +0300
+
+    Initial commit
