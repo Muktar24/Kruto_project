@@ -18,3 +18,6 @@ users = [
 cursor_execute.executemany("INSERT INTO userer(user_id, user_name, email) values(?, ?, ?)", users)
 
 print(cursor_execute.fetchall())
+
+print()
+print()
